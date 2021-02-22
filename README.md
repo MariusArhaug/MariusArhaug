@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. I currently take part in the organization NTNUi Sprint, where I have the role as a frontend developer. 
 <!--
 **MariusArhaug/MariusArhaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning TypeScript, Vue.js, React.js, Django, Node.js and Feathers/Express.js
 - 👯 I’m looking to collaborate on fullstack development
 - 📫 How to reach me: @mariusarhaug@hotmail.com
+- ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
