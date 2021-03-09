@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusArhaug&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusArhaug&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on a frontend design for a membership-system for NTNUi Sprint
 - 🌱 I’m currently learning TypeScript, Vue.js, React.js, Django, Node.js and Feathers/Express.js
