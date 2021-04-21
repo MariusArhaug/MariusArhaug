@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
 - 🔭 I’m currently working on a frontend design for a membership-system for NTNUi Sprint
-- 🌱 I’m currently learning/using TypeScript, Vue.js, React.js, Django, Node.js and Feathers/Express.js
-- 👯 I’m looking to collaborate on fullstack development
-- 📫 How to reach me: @mariusarhaug@hotmail.com
+- 🌱 I’m currently learning/using TypeScript, Vue.js, React.js, Elixir, Django, Node.js and Feathers/Express.js
+- 👯 I’m looking to collaborate on software engineering and/or fullstack development.
+- 📫 How to reach me: mariusarhaug@hotmail.com
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
 
 -->
