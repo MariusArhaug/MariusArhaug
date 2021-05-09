@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mariusarhaug@hotmail.com
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
 
+![Profile views counter](https://komarev.com/ghpvc/?username=MariusArhaug&&style=flat-square)  
+<a href="https://www.linkedin.com/in/marius-arhaug-9606321a8/">![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusArhaug&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
