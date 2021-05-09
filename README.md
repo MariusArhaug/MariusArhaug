@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/marius-arhaug-9606321a8/">![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Profile views](https://gpvc.arturio.dev/MariusArhaug)
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=MariusArhaug&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=dark&layout=compact" />
-</a>
+<div style="width: 100%; display: flex">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MariusArhaug&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=dark&layout=compact" />
+  </a>
+</div>
