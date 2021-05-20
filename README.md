@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on a frontend design for a membership-system for NTNUi Sprint
-- 🌱 I’m currently learning/using TypeScript, Vue.js, React.js, Elixir, Django, Node.js and Feathers/Express.js
+- 🌱 I’m currently learning/using languages such as TypeScript, Vue.js, React.js, Elixir, Django, Node.js and Express.js
+- 💾 I have experience with databases such as MySQL, PostgresSQL and some Neo4js. 
 - 👯 I’m looking to collaborate on software engineering and/or fullstack development.
 - 📫 How to reach me: mariusarhaug@hotmail.com
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
