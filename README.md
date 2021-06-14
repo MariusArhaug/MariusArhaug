@@ -13,7 +13,7 @@ I was previously employed by NTNU as a learning assistant in the course TDT4100 
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
 
 <a href="https://www.linkedin.com/in/marius-arhaug-9606321a8/">![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![Profile views](https://gpvc.arturio.dev/MariusArhaug)
+<!-- ![Profile views](https://gpvc.arturio.dev/MariusArhaug) -->
 <br>
 <div style="width: 100%; display: flex">
   <a href="https://github.com/anuraghazra/github-readme-stats">
