@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where i plan to major in _Algorithms_ and _High Performance Computing (HPC)_. 
 
-This summer I have gotten the opportunity to work both as a two full time internships at **Sportradar** and **Metaito**. Where I have roles as a _software developer_ and as a _fullstack developer_, respectively. Technologies include Java, Typescript with Express/Node.js, GraphQL, AWS and Vue.js, Elixir with PostgresSQL and Neo4js. 
+This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I have roles as a _software developer_ and as a _fullstack developer_, respectively. Technologies include Java, Typescript with Express/Node.js, GraphQL, AWS and Vue.js, Elixir with PostgresSQL and Neo4js. 
 
 I was previously employed by NTNU as a learning assistant in the course TDT4100 - Object oriented programming. I also currently take part in the organization **NTNUi Sprint**, where I have the role as a frontend developer. 
 
