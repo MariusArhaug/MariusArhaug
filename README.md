@@ -3,8 +3,6 @@ My name is Marius Arhaug. Im currently studying for my masters degree in Compute
 
 This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I have roles as a _software developer_ and as a _fullstack developer_, respectively. Technologies include Java, Typescript with Express/Node.js, GraphQL, AWS and Vue.js, Elixir with PostgresSQL and Neo4js. 
 
-I was previously employed by NTNU as a learning assistant in the course TDT4100 - Object oriented programming. I also currently take part in the organization **NTNUi Sprint**, where I have the role as a frontend developer. 
-
 - 👯 I’m looking to collaborate on software engineering and/or fullstack development.
 - 📫 How to reach me: mariusarhaug@hotmail.com
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
