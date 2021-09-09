@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. 
+My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. Currently a partime software developer **@Sportradar**. 
 
 This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I had the role as a _software developer_ and as a _fullstack developer_, respectively. Technologies include Java, Typescript with Express/Node.js, GraphQL, AWS and Vue.js, Elixir with PostgresSQL and Neo4j. 
 
