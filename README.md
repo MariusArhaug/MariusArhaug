@@ -50,6 +50,6 @@ Frameworks, Platforms and Libraries
     <img align="center" width="50%"src="https://github-readme-stats.vercel.app/api?username=MariusArhaug&count_private=true&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&show_icons=true&theme=dark&layout=compact" />
+    <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html" />
   </a>
 </div>
