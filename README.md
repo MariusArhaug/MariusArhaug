@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. Currently a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. 
+My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am know working for their _streaming_ squad where we use technologies such as **Go**, **TypeScript** and **GraphQL** 
 
 This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I had the role as a _software developer_ and as a _fullstack developer_, respectively. Technologies include TypeScript, GraphQL and Elixir, respectively
 
@@ -12,6 +12,7 @@ This summer I have gotten the opportunity to work at two full time internships a
 Languages and tools
 ---------------------
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
