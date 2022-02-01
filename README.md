@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am know working for their _streaming_ squad where we use technologies such as **Go**, **TypeScript** and **GraphQL** 
+My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am now working for their _streaming_ squad where we use technologies such as **Go**, **TypeScript** and **GraphQL** 
 
 This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I had the role as a _software developer_ and as a _fullstack developer_, respectively. Technologies include TypeScript, GraphQL and Elixir, respectively
 
