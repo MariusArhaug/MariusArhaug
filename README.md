@@ -1,9 +1,6 @@
 ### Hi there 👋
 My name is Marius Arhaug. Im currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am now working for their _streaming_ squad where we use technologies such as **Go**, **TypeScript** and **GraphQL** 
 
-This summer I have gotten the opportunity to work at two full time internships at **Sportradar** and **Metaito**. Where I had the role as a _software developer_ and as a _fullstack developer_, respectively. Technologies include TypeScript, GraphQL and Elixir, respectively
-
-- 👯 I’m looking to collaborate on software engineering and/or fullstack development.
 - 📫 How to reach me: mariusarhaug@hotmail.com
 - ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
 
@@ -41,8 +38,6 @@ Frameworks, Platforms and Libraries
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-
-
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/MariusArhaug) -->
