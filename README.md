@@ -28,7 +28,7 @@ Frameworks, Platforms and Libraries
 -------------------
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
@@ -46,3 +46,5 @@ Frameworks, Platforms and Libraries
     <img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariusArhaug&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6&hide=css,html" />
   </a>
 </div>
+
+<!--![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariusArhaug&theme=vue)-->
