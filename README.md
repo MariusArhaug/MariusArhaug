@@ -5,7 +5,7 @@ This summer I had the opportunity to work as a software engineer <a href="https:
 
 
 - 📫 How to reach me: mariusarhaug@hotmail.com
-- ⚡ Fun fact: I partake in my country's regional team in powerlifing. 
+- ⚡ Fun fact: I partake in my country's regional team in powerlifting. 
 
 <a href="https://www.linkedin.com/in/marius-arhaug-9606321a8/">![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
