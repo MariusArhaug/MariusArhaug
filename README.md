@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Marius Arhaug. I am currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am now working for their _streaming_ squad where we use technologies such as **Go**. **C++**, **TypeScript** and **GraphQL**.
 
-This summer I had the opportunity to work as a software engineer <a href="https://github.com/microsoft">@Microsoft</a>. Where I worked on a backend team, _Loki_ that served data to various office services. Here I used **C# / .NET** and learned alot about how to scale out services at an enterprise level. 
+This summer and the previous summer, I had the opportunity to work as a software engineer <a href="https://github.com/microsoft">@Microsoft</a>. Where I worked on a backend team, _Loki_ that served data to various office services. Here I used **C# / .NET** and learned alot about how to scale out services at an enterprise level. 
 
 
 - 📫 How to reach me: mariusarhaug@hotmail.com
-- ⚡ Fun fact: I partake in my country's regional team in powerlifting. 
+- ⚡ Fun fact: I am a member of Norways junior national team in powerlifting. 
 
 <a href="https://www.linkedin.com/in/marius-arhaug-9606321a8/">![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
