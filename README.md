@@ -1,7 +1,9 @@
 ### Hi there 👋
-My name is Marius Arhaug. I am currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software developer <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a>. Where I am now working for their _streaming_ squad where we use technologies such as **Go**. **C++**, **TypeScript** and **GraphQL**.
+My name is Marius Arhaug. I am currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software engineer <a href="https://github.com/vespa-engine"><strong>@Vespa.ai</strong></a>. 
 
-This summer and the previous summer, I had the opportunity to work as a software engineer <a href="https://github.com/microsoft">@Microsoft</a>. Where I worked on a backend team, _Loki_ that served data to various office services. Here I used **C# / .NET** and learned alot about how to scale out services at an enterprise level. 
+Previously I was a software developer for <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a> for almost 3 years. Where I was mainly working for their _streaming_ squad where we used technologies such as **Go**. **C/C++** and **CUDA**.
+
+For the last two summers, I´ve had the opportunity to work as a software engineer <a href="https://github.com/microsoft">@Microsoft</a>. Where I worked on a backend team, _Loki_ that served data to various office services. Here I used **C# / .NET** and learned alot about how to scale out services at an enterprise level. 
 
 
 - 📫 How to reach me: mariusarhaug@hotmail.com
