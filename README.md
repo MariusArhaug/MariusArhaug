@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marius Arhaug. I am currently studying for my masters degree in Computer Science at NTNU. Where I am majoring in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am also working as a partime software engineer <a href="https://github.com/vespa-engine"><strong>@Vespa.ai</strong></a>. 
+My name is Marius Arhaug. I am currently employeed as a Software Engineer at <a href="https://github.com/microsoft"><strong>@Microsoft</strong></a>. I have a masters degree in Computer Science at NTNU. Where I majored in the field of _Algorithms_ and _High Performance Computing (HPC)_. While studying I am was also working as a partime software engineer <a href="https://github.com/vespa-engine"><strong>@Vespa.ai</strong></a>.
 
 Previously I was a software developer for <a href="https://github.com/sportradar"><strong>@Sportradar</strong></a> for almost 3 years. Where I was mainly working for their _streaming_ squad where we used technologies such as **Go**. **C/C++** and **CUDA**.
 
